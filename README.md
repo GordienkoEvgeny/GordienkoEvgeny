@@ -47,7 +47,7 @@ Languages and Tools
    <a href="https://vk.com/ev_gordienko">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://instagram.com/ev_gordienko">
+  <a href="https://instagram.com/ev_gordienko?igshid=YmMyMTA2M2Y=">
     <img src="https://img.shields.io/badge/instagram-mediumorchid?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
