@@ -1,18 +1,19 @@
-<h2 align="center">
+<h1 align="center">
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Evgeniy!
-</h2>
+</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h2 align="center">
+<h1 align="center">
   I am a frontend developer
-</h2>
-<div align="center">
-<h3 >
+</h1>
+
+<div>
+<h2 >
 Languages and Tools
-</h3>
+</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="48" height="48"/>&nbsp;
@@ -28,20 +29,25 @@ Languages and Tools
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="48" height="48"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+<h2>
+  Stats
+</h2>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GordienkoEvgeny&theme=dark&hide_border=&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<h1 align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GordienkoEvgeny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>
   Socials
-</h1>
-<div id="badges" align="center">
+</h3>
+<div id="badges">
   <a href="https://t.me/EvgeniyGordienko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
    <a href="https://vk.com/ev_gordienko">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://instagram.com/ev_gordienko">
     <img src="https://img.shields.io/badge/instagram-mediumorchid?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
