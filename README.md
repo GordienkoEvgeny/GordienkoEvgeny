@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">
-  I am a frontend developer
+  I am a beginner frontend developer
 </h1>
 
 <div>
@@ -33,9 +33,13 @@ Languages and Tools
   Stats
 </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GordienkoEvgeny&theme=dark&hide_border=&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GordienkoEvgeny&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GordienkoEvgeny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GordienkoEvgeny&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### E-mail:
+- evgeny.gordienko95@gmail.com
+
 
 <h3>
   Socials
@@ -43,10 +47,6 @@ Languages and Tools
 <div id="badges">
   <a href="https://t.me/EvgeniyGordienko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-   <a href="https://vk.com/ev_gordienko">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
   <a href="https://instagram.com/ev_gordienko?igshid=YmMyMTA2M2Y=">
     <img src="https://img.shields.io/badge/instagram-mediumorchid?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
